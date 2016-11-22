@@ -1,0 +1,3 @@
+#install.packages("shiny")
+library(shiny)
+shinyApp(ui=ui,server = server)
